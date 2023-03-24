@@ -4,9 +4,12 @@
   const wheel = document.querySelector('.wheel');
   const startButton = document.querySelector('.button');
   const display = document.querySelector('.display');
+
   
   let deg = 0;
   let zoneSize = 25.714; // deg
+  
+
 
   // Counter clockwise
   const symbolSegments = {
@@ -19,7 +22,7 @@
     7: "Nanoblock + Pick 1Pk JPN",
     8: "2Pks Battle Region + 25th Anniversary Pk",
     9: "Gachapon + Pick 2Pks ENG",
-    10: "Mini Pokeball Plush",
+    10: "Pokeball Plush + 1Pk ENG",
     11: "4Pks ENG Bundle",
     12: "VStar Universe + Scarlet",
     13: "VStar Universe + Violet",
