@@ -13,20 +13,20 @@
 
   // Counter clockwise
   const symbolSegments = {
-    1: "Mystery Charm + Pick 2Pks JPN",
-    2: "4Pks Battle Region Bundle",
-    3: "VStar Universe + Shiny Star V",
-    4: "Mystery Charm + Pick 2Pks JPN",
-    5: "3Pks Violet + Promo",
-    6: "VMax Charm + Pick 2Pks JPN",
-    7: "Nanoblock + Pick 1Pk JPN",
-    8: "2Pks Battle Region + 25th Anniversary Pk",
-    9: "Gachapon + Pick 2Pks ENG",
-    10: "Pokeball Plush + 1Pk ENG",
-    11: "4Pks ENG Bundle",
-    12: "VStar Universe + Scarlet",
-    13: "VStar Universe + Violet",
-    14: "3Pks Scarlet + Promo",
+    1: "Mystery Charm + Pick 2Pks Eng",
+	2: "4Pks Battle Region Bundle",
+	3: "VStar Universe + Shiny Star V",
+	4: "Mystery Charm + Pick 2Pks Eng",
+	5: "4pk Eng Scarlet/Violet",
+	6: "VMax Charm + Pick 2Pks JPN",
+	7: "Nanoblock + Pick 1Pk JPN",
+	8: "2Pks Battle Region + 25th Anniversary Pk",
+	9: "Gachapon + Pick 2Pks ENG",
+	10: "Pokeball Plush + 1Pk ENG",
+	11: "4pk Eng Scarlet/Violet",
+	12: "VStar Universe + Violet",
+	13: "VStar Universe + Scarlet",
+	14: "4pk Eng Scarlet/Violet",
   }
 
   const handleWin = (actualDeg) => {
